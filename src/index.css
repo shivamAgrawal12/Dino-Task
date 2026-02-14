@@ -16,7 +16,7 @@ body {
   );
 }
 
-/* Control Button Style */
+/* Control Buttons */
 .control-btn {
   @apply 
     bg-black/60 
